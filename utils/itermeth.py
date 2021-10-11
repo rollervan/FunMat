@@ -2,7 +2,7 @@ from scipy.linalg import lu
 from numpy.linalg import pinv, norm
 import numpy as np
 
-def itermeth(A, b, x0, nmax, tol, P=None):
+def itermeth(A, b, x0, nmax, tol, P=None, w=1):
     """ITERMETH  General iterative method
      X = ITERMETH(A,B,X0,NMAX,TOL,P) attempts to solve the
      system of linear equations A*X=B for X. The N-by-N
@@ -34,7 +34,7 @@ def itermeth(A, b, x0, nmax, tol, P=None):
             beta, alpha = 1, 1
         elif P == 'G':
             L = np.tril(A)
-            U = np.eye(n)
+            U = (1/w)*np.eye(n)
             beta, alpha = 1, 1
         elif P is None:
             L = np.eye(n)
