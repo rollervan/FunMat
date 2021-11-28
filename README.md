@@ -27,3 +27,10 @@
 ### Clase VII: <a href="https://colab.research.google.com/github/rollervan/FunMat/blob/main/Codes/Clase%20VII.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+
+# Apéndices
+
+### Convolución como producto matricial: <a href="https://colab.research.google.com/github/rollervan/FunMat/blob/main/Codes/Convolution%20as%20a%20Matrix%20Product.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
