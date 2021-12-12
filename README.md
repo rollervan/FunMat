@@ -34,3 +34,7 @@
 ### Convolución como producto matricial: <a href="https://colab.research.google.com/github/rollervan/FunMat/blob/main/Codes/Convolution%20as%20a%20Matrix%20Product.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+### Ejemplo función XOR con y sin activación no lineal: <a href="https://colab.research.google.com/github/rollervan/FunMat/blob/main/Codes/XOR_example.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
