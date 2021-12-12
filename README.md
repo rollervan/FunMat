@@ -38,3 +38,8 @@
 ### Ejemplo función XOR con y sin activación no lineal: <a href="https://colab.research.google.com/github/rollervan/FunMat/blob/main/Codes/XOR_example.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+
+### Práctica Denoising TV: <a href="https://colab.research.google.com/github/rollervan/FunMat/blob/main/Codes/Práctica_TV_TF2.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
