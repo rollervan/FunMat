@@ -43,3 +43,7 @@
 ### Práctica Denoising TV: <a href="https://colab.research.google.com/github/rollervan/FunMat/blob/main/Codes/Práctica_TV_TF2.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+### Práctica Adversarial Examples: <a href="https://colab.research.google.com/github/rollervan/FunMat/blob/main/Codes/Práctica_Adversarial_Examples.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
