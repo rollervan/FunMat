@@ -1,48 +1,45 @@
 # Repositorio de Fundamentos Matemáticos (MUVA)
 
-### Clase I: <a href="https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/Clase%20I.ipynb">
-</a>
+### Clase I:
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/Clase%20I.ipynb)
 
-### Clase II: <a href="https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/Clase%20II.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
 
-### Clase III: <a href="https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/Clase%20III.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+### Clase II: 
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/Clase%20II.ipynb)
 
-### Clase IV: <a href="https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/Clase%20IV.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
 
-### Clase V: <a href="https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/Clase%20V.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+### Clase III: 
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/Clase%20III.ipynb)
 
-### Clase VI: <a href="https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/Clase%20VI.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
 
-### Clase VII: <a href="https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/Clase%20VII.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+### Clase IV: 
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/Clase%20IV.ipynb)
+
+### Clase V: 
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/Clase%20V.ipynb)
+
+
+### Clase VI: 
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/Clase%20VI.ipynb)
+
+
+### Clase VII: 
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/Clase%20VII.ipynb)
 
 
 # Apéndices
 
-### Convolución como producto matricial: <a href="https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/Convolution%20as%20a%20Matrix%20Product.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+### Convolución como producto matricial: 
 
-### Ejemplo función XOR con y sin activación no lineal: <a href="https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/XOR_example.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/Convolution%20as%20a%20Matrix%20Product.ipynb)
+
+### Ejemplo función XOR con y sin activación no lineal:
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/XOR_example.ipynb)
 
 
-### Práctica Denoising TV: <a href="https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/Práctica_TV_TF2.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+### Práctica Denoising TV: 
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/Práctica_TV_TF2.ipynb)
 
-### Práctica Adversarial Examples: <a href="https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/Práctica_Adversarial_Examples.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+
+### Práctica Adversarial Examples:
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rollervan/FunMat/blob/main/Codes/Práctica_Adversarial_Examples.ipynb)
