@@ -4,8 +4,6 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-<button onclick="window.open('https://colab.research.google.com/github/rollervan/FunMat/blob/main/Codes/Clase%20I.ipynb')">Open Colab Notebook</button>
-
 ### Clase II: <a href="https://colab.research.google.com/github/rollervan/FunMat/blob/main/Codes/Clase%20II.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
