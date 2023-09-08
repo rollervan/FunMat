@@ -4,7 +4,7 @@
 ### <p align="center">Máster Universitario en Visión Artificial</p>
 
         
-<p><a href="https://mastervisionartificial.es/" align="center">
+<p align="center"><a href="https://mastervisionartificial.es/" align="center">
   <img src="https://mastervisionartificial.es/wp-content/uploads/2019/03/cropped-logotipo-1.png">
 </a></p>
 
