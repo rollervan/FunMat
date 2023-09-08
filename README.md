@@ -1,7 +1,7 @@
 # <p style="text-align: center;">Repositorio de códigos de Fundamentos Matemáticos</p>
 
        
-### <p style="text-align: center;">Máster Universitario en Visión Artificial</p>
+### <p align="center">Máster Universitario en Visión Artificial</p>
 
         
 <p align="center">
