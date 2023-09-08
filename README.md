@@ -3,13 +3,10 @@
        
 ### <p style="text-align: center;">Máster Universitario en Visión Artificial</p>
 
-<img src="https://mastervisionartificial.es/wp-content/uploads/2019/03/cropped-logotipo-1.png" 
-        alt="Picture" 
-        width="auto" 
-        height="auto" 
-        style="display: block; margin: 0 auto" />
         
-
+<p align="center">
+  <img src="https://mastervisionartificial.es/wp-content/uploads/2019/03/cropped-logotipo-1.png">
+</p>
 
 
 ## PARTE I - Estadística
