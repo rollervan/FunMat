@@ -52,8 +52,11 @@
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rollervan/FunMat/blob/main/Parte_III/Práctica_TV_TF2.ipynb)
 
 
-* #### Práctica Adversarial Examples:
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rollervan/FunMat/blob/main/Parte_III/Práctica_Adversarial_Examples.ipynb)
+* #### Práctica Adversarial Examples (Pytorch):
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rollervan/FunMat/blob/main/Parte_III/Práctica_Adversarial_Examples_Pytorch.ipynb)
+
+* #### Práctica Adversarial Examples (TensorFlow):
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rollervan/FunMat/blob/main/Parte_III/Práctica_Adversarial_Examples_TensorFlow.ipynb)
 
 * #### Convolución como producto matricial: 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rollervan/FunMat/blob/main/Parte_III/Convolution%20as%20a%20Matrix%20Product.ipynb)
