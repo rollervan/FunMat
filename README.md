@@ -1,6 +1,5 @@
-<iframe style="width: 100%; height: 500px; border: 1px solid rgba(0, 0, 0, 0.125);"
-        src="https://archive.softwareheritage.org/browse/embed/swh:1:dir:57c9e9851d8ac4289c2dd9cfadbbf0160ae4c910;origin=https://github.com/rollervan/FunMat;visit=swh:1:snp:4cc3c4e3df9832e25d5039fa0364ffb8fa7eac79;anchor=swh:1:rev:1e226b41c35b6893907a97c5348787329654e6ec/">
-</iframe>
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/rollervan/FunMat/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/rollervan/FunMat)
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:57c9e9851d8ac4289c2dd9cfadbbf0160ae4c910/)](https://archive.softwareheritage.org/swh:1:dir:57c9e9851d8ac4289c2dd9cfadbbf0160ae4c910;origin=https://github.com/rollervan/FunMat;visit=swh:1:snp:4cc3c4e3df9832e25d5039fa0364ffb8fa7eac79;anchor=swh:1:rev:1e226b41c35b6893907a97c5348787329654e6ec)
 
 # <p style="text-align: center;">Repositorio de códigos de Fundamentos Matemáticos</p>
 
