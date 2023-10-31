@@ -1,3 +1,7 @@
+<iframe style="width: 100%; height: 500px; border: 1px solid rgba(0, 0, 0, 0.125);"
+        src="https://archive.softwareheritage.org/browse/embed/swh:1:dir:57c9e9851d8ac4289c2dd9cfadbbf0160ae4c910;origin=https://github.com/rollervan/FunMat;visit=swh:1:snp:4cc3c4e3df9832e25d5039fa0364ffb8fa7eac79;anchor=swh:1:rev:1e226b41c35b6893907a97c5348787329654e6ec/">
+</iframe>
+
 # <p style="text-align: center;">Repositorio de códigos de Fundamentos Matemáticos</p>
 
        
@@ -8,6 +12,13 @@
   <img src="https://mastervisionartificial.es/wp-content/uploads/2019/03/cropped-logotipo-1.png">
 </a></p>
 
+
+
+## Guía de uso 
+
+Este repositorio consta de diferentes notebooks interactivos autocontenidos. Los diferentes ejercicios vienen explicados y detallados en los mismos.
+Cada repositorio se puede descargar y ejecutar en local o directamente haciendo uso de Google Colab a través de los distintos enlaces.
+![](ejemplo.png)
 
 ## PARTE I - Estadística
 
@@ -69,3 +80,7 @@
 
 * #### Tutorial Pytorch (alumnos):
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rollervan/FunMat/blob/main/Parte_I/TUTORIAL_PYTORCH_alumnos.ipynb)
+
+
+## Licencias
+Este código está bajo licencia Apache License 2.0.
